@@ -1,16 +1,15 @@
-## Hi there 👋
+# Unity Action-Shooter Prototype
 
-<!--
-**rizali46/rizali46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A core gameplay prototype developed in Unity utilizing C#. This project focuses on responsive mechanics, component-based architecture, and efficient gameplay loops.
 
-Here are some ideas to get you started:
+## 🚀 Key Features Implemented:
+* **Character Movement:** Smooth, responsive movement handling.
+* **Combat System:** Projectile shooting mechanics and collision handling.
+* **Enemy Spawner:** Dynamic wave spawning logic.
+* **Skill System:** Modular skill/ability components.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools:
+* Unity 2022/2023
+* C# (OOP, ScriptableObjects)
+* Git for Version Control
+* Generative AI (Utilized for code optimization and debugging workflows)
